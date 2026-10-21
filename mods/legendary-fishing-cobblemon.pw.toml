@@ -1,0 +1,13 @@
+name = "Legendary Fishing [Cobblemon]"
+filename = "legendaryfishing-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KFpkdBDf/versions/5Un1ASBN/legendaryfishing-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "f076baa3916944eab2ea77d723109bd80031341ec06f4c68d56e4f086e77dee045561db7718b71fb1ff153f5319ad272ec879f9273a79f8743a1a0ae36fe1b72"
+
+[update]
+[update.modrinth]
+mod-id = "KFpkdBDf"
+version = "5Un1ASBN"

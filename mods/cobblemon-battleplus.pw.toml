@@ -1,0 +1,13 @@
+name = "Cobblemon BattlePlus"
+filename = "cobblemonbattleplus-neoforge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KpbTa7sG/versions/XtiIiAIu/cobblemonbattleplus-neoforge-2.0.0.jar"
+hash-format = "sha512"
+hash = "69ebfddc2932dad49eab49bc80ab928f2a00dca05a89fd38ac49b6c235c3464802ee4e05dc96751112e8ccd754a96920417e5996cae72f5e395c8d2bc489a30e"
+
+[update]
+[update.modrinth]
+mod-id = "KpbTa7sG"
+version = "XtiIiAIu"

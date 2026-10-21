@@ -1,0 +1,13 @@
+name = "CobbleTracker (Cobblemon)"
+filename = "cobbletracker-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7H6HU7Y7/versions/QhKNZ2G0/cobbletracker-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "3f79bccb82d5260b2942f66884cf69d9cca76c339611b7e49be78a0c1c128ea3a09d2d3f8b50e5558a7eb16777daf3b37bb2bd0fdd24fa158d947e371446f342"
+
+[update]
+[update.modrinth]
+mod-id = "7H6HU7Y7"
+version = "QhKNZ2G0"

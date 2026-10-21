@@ -1,0 +1,13 @@
+name = "UberMonCraft"
+author = "Uberpowerd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "000f516ecc31f655866af238041b2c643eab70da02ed1af3963e5121dfce92ce"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.262"

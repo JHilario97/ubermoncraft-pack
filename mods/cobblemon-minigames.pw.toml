@@ -1,0 +1,13 @@
+name = "Cobblemon MiniGames"
+filename = "cobblemonminigames-neoforge-4.1.1+cobblemon1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KVNtCTpr/versions/mm1hskvk/cobblemonminigames-neoforge-4.1.1%2Bcobblemon1.8.0.jar"
+hash-format = "sha512"
+hash = "bf3f2364158c57a4590fb9bd28f5523958e731ca7a4c18f39dd7bf42a68291b2486182f1ad8a914f2f7967cb3f7c7b1a6c1804190f55e80e91208bb41511c835"
+
+[update]
+[update.modrinth]
+mod-id = "KVNtCTpr"
+version = "mm1hskvk"
