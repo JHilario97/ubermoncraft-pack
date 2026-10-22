@@ -1,0 +1,13 @@
+name = "Cobblemon Dailies"
+filename = "Cobblemon Dailies-NeoForge-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wpVff6b8/versions/dLppnRoN/Cobblemon%20Dailies-NeoForge-1.21.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "816fc7f5cbfbc03efe6e03a4f13a635189487d84991b9edf5c78012c795881efc85605a9dcf377841d7e14cdbf40aa7c3a74e934bb91d0a0daac14b7c7637fe0"
+
+[update]
+[update.modrinth]
+mod-id = "wpVff6b8"
+version = "dLppnRoN"
