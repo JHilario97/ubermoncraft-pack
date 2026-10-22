@@ -1,0 +1,14 @@
+resourcePacks:["vanilla","mod_resources","file/AZOTH_Xaeros_Icons-1.8.3.zip","file/dCIM 1.0.4.zip","file/PokeCostume v.3.3.zip","file/Cobblemon_Cosmetic_Expansion-2.1.1.zip","file/Battle Tracks v1.2.zip"]
+key_gui.xaero_open_map:key.keyboard.j:NONE
+key_key.cobblemon_dailies.toggle_quest_hud:key.keyboard.unknown:NONE
+key_gui.xaero_new_waypoint:key.keyboard.unknown:NONE
+key_gui.xaero_enlarge_map:key.keyboard.unknown:NONE
+key_gui.xaero_minimap_settings:key.keyboard.right.bracket:NONE
+key_key.corpse.death_history:key.keyboard.unknown:NONE
+key_key.cobblemon.pokenavigator:key.keyboard.semicolon:NONE
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown:NONE
+key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
+key_key.sophisticatedcore.sort:key.keyboard.unknown:NONE
+key_key.apotheosis.toggle_radial_mining:key.keyboard.unknown:NONE
+key_key.apotheosis.toggle_attribute_bonuses:key.keyboard.unknown:NONE
+key_key.petyourcobblemon.toggleinteractmode:key.keyboard.h:NONE

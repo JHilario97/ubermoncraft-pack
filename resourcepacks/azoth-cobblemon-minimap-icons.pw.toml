@@ -1,0 +1,13 @@
+name = "AZOTH Cobblemon Minimap Icons"
+filename = "AZOTH_Xaeros_Icons-1.8.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qYjawZd1/versions/uQsHx7Qk/AZOTH_Xaeros_Icons-1.8.3.zip"
+hash-format = "sha512"
+hash = "8d293e89374c6ba4e3a1894ce587d82b13877d1d953f3ba1688e4e25a3e206eb0006c314926cdc4aac7a3fe13e48ca994cd19e6c063e78c4efb690cd8eb69d9b"
+
+[update]
+[update.modrinth]
+mod-id = "qYjawZd1"
+version = "uQsHx7Qk"

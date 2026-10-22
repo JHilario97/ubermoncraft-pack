@@ -457,3 +457,37 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2ea0172f0e3a7c8e5d46f39b60adaa302698b6188ec5a6de34170cbf193b39cf"
+preserve = true
+
+[[files]]
+file = "resourcepacks/Cobblemon_Cosmetic_Expansion-2.1.1.zip"
+hash = "6eef1ccf8ab1e0df3195eea096dadc6c4783669669881801725024edfd09b490"
+
+[[files]]
+file = "resourcepacks/azoth-cobblemon-minimap-icons.pw.toml"
+hash = "8043d920db0cffb620c3e81e5c92972e949bc3c48983334c7dfbcd39b5cd082e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-battle-tracks.pw.toml"
+hash = "f30845a29497acc28b82b11593bc7ef4c93608fe844eed59109744bb96358e9b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-music-pack.pw.toml"
+hash = "9be64b33cd7338d94558a356a878ea49df6c9ea8308d9fb46ae2fc73cd87386f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dcim.pw.toml"
+hash = "86765d98464086bb9a0f34fde6cf4df50840e7929eaea98b3979fedd572dbfd8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/poke-costume.pw.toml"
+hash = "fcacedb7768d42787fa143a706f3b62b552e4b642e058f774eb1d423ad01b82d"
+metafile = true
