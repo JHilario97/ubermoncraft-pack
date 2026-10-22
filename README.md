@@ -5,7 +5,7 @@ The modpack for the UberMonCraft Cobblemon server (`play.uberzone.us`). It updat
 ## First-time setup
 
 1. Install **Prism Launcher** (free): https://prismlauncher.org
-2. Download **UberMonCraft-Prism.zip** from the [Releases page](../../releases).
+2. Download the setup file: **[UberMonCraft-Prism.zip](https://github.com/JHilario97/ubermoncraft-pack/raw/main/setup/UberMonCraft-Prism.zip)**
 3. In Prism, click **Add Instance**, choose **Import**, and pick the zip.
 4. Hit **Play**. The first launch downloads all the mods, which takes a few minutes. The server is already in your multiplayer list.
 
