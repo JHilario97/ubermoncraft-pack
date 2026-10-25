@@ -310,6 +310,11 @@ hash = "7b329b1c605a86df77d5bc601fac60f84b269145ccbbc01c0907215eaec6f54f"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "299ed58980f5c02afbaabcc52d5e573e8b8ab0c2c30fd688d6d7e86e7ac6bf6d"
 metafile = true
@@ -396,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubermoncraft-core-1.0.0.jar"
-hash = "6a4cd25b7c1328121c7fdd991feaf2711b4639da4dfdeb63065db4c8bf3c66c5"
+hash = "5c8532bccde18362d231c07abc506b04d9ee79f14b96c4326d7af63f105ad2ca"
 
 [[files]]
 file = "mods/waystones.pw.toml"
