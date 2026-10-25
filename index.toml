@@ -111,6 +111,11 @@ hash = "519aef987d454544c8bf75a878a08de483d4bfda02124fa34fdef5657f8a2118"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "c2c87b9fe04066c049b3e5865232d50cc280e016d127df5c114abe69c9e5c05f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-quest-reloaded.pw.toml"
 hash = "093ebb8f3b0af4596a82a0b9039fa641e03361b5550be028a8669252ecb05241"
 metafile = true
@@ -401,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubermoncraft-core-1.0.0.jar"
-hash = "864d8786122c793d5ceb9d1874619f308b5ff6f4408cbd5590e065192328de1e"
+hash = "aea1a6543b7d8f26899ae7ff9e65ff8a26e08f8967ebaa29dcf16e38f4150e47"
 
 [[files]]
 file = "mods/waystones.pw.toml"
