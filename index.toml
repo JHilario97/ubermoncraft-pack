@@ -41,6 +41,11 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -270,6 +280,11 @@ hash = "bf27344899c284770361d2bd89a8244b2e5b65d14092fc462a45cf81c97f7a6e"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monuments.pw.toml"
+hash = "df45b7ccfbb50f10c9cc5e32d5ea6020346c45c5ebbc89ff5159f390bd5d7960"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
@@ -277,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
 metafile = true
 
 [[files]]
@@ -365,6 +385,11 @@ hash = "b0eaa9f9d88d583de0929a74835d38a2a837ec34b4d78b1fe75068ca011eca42"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/seasonal-decorations.pw.toml"
 hash = "3755d51aca97b23d841fd48c95b84594846ad97cee19b2a35bf6edfa0a490521"
 metafile = true
@@ -406,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubermoncraft-core-1.0.0.jar"
-hash = "c8ca14c28c8a369ac69ac9b1b02e75e8b480668ed92bccd14f8a997186325a88"
+hash = "1a7f63e37ade730965fa024110553b330c508ae9e394b609166fc128b6372ee5"
 
 [[files]]
 file = "mods/waystones.pw.toml"
