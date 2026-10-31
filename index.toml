@@ -56,6 +56,11 @@ hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
+file = "mods/catch-rate-display.pw.toml"
+hash = "e28b4dec295a320bf019c38321fe18bc4f08bb2b25c4f1091470c549ef1ba5e8"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -81,6 +86,16 @@ hash = "d06294493a8ca46bac5fffdcfcd0b7e76585c2795bfa4616f2e167a623e32566"
 metafile = true
 
 [[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "6beb1d27bf94f370291a868c5c5470eb6aaab5f9990ce5d66f3eba0ea4a3fec8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "fbd64ce217145bd1155f3ff3f895f5e5eebd0f2ad9679ce2d7a1a4114b4569ce"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-battle-tower.pw.toml"
 hash = "04f8f20f824614f92a765fbe3781ee89db4cbdc4399f47009fd9f1062909e48b"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-better-campfire-pot.pw.toml"
 hash = "c46287c31aec800456cc11e5626c186e629e7351a6b4d0df1a94a181c62f6f7e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-cobblestats.pw.toml"
+hash = "7ecaf6d878bd373676c84c5727ee515a3953b2e9972c64e61a1ed9c5efd672f3"
 metafile = true
 
 [[files]]
@@ -121,6 +141,16 @@ hash = "519aef987d454544c8bf75a878a08de483d4bfda02124fa34fdef5657f8a2118"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "60c53690ccf6b6f99a89bb6194138b29ff4453c6d1a428972b8d382697217289"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-party-extras.pw.toml"
+hash = "59cbf16779a3e732502fe83b36fb11633f52d2a2c33da3a279c6d5cbc141b5fe"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "c2c87b9fe04066c049b3e5865232d50cc280e016d127df5c114abe69c9e5c05f"
 metafile = true
@@ -128,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-quest-reloaded.pw.toml"
 hash = "093ebb8f3b0af4596a82a0b9039fa641e03361b5550be028a8669252ecb05241"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-rustling-spots.pw.toml"
+hash = "fb5e153521c1ec01cc17605523f74d1337e3ede1a641006797dddfe5913adb1e"
 metafile = true
 
 [[files]]
@@ -431,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubermoncraft-core-1.0.0.jar"
-hash = "a58b8697d1e413caf48cd60e5de695da258bef527fe59a5bab2907622ca4dfe6"
+hash = "75b7893e992faad852ecf45a9bfcfedb2b7c57679f8194a5336ce3be8bb051e1"
 
 [[files]]
 file = "mods/waystones.pw.toml"

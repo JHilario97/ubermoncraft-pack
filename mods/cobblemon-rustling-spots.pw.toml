@@ -1,0 +1,13 @@
+name = "Cobblemon Rustling Spots"
+filename = "rustlingspots-neoforge-6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JqMS1LKC/versions/5ZfTkfsU/rustlingspots-neoforge-6.0.jar"
+hash-format = "sha512"
+hash = "083883b46a2f3f7ccace24eecf7247b9859371541bf6a4ce6fcf27a63b880419699f2c6f76174cba385b2ece99e03fb5eb42ae049ed9dab0b0c940f3e8d7021e"
+
+[update]
+[update.modrinth]
+mod-id = "JqMS1LKC"
+version = "5ZfTkfsU"

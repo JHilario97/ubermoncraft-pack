@@ -1,0 +1,13 @@
+name = "Cobblemon: CobbleStats"
+filename = "cobblestats-neoforge-2.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jlXFcQk4/versions/lIVi0YMW/cobblestats-neoforge-2.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "def7e49ec6b1df61264479b0bf230fca4e149a7faba753c56b45d4fef9979385a27992c6d58090efaee92b99f2d77c423a81935c1e4ce57fab06bd140996421b"
+
+[update]
+[update.modrinth]
+mod-id = "jlXFcQk4"
+version = "lIVi0YMW"
