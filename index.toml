@@ -111,11 +111,6 @@ hash = "c46287c31aec800456cc11e5626c186e629e7351a6b4d0df1a94a181c62f6f7e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-cobblestats.pw.toml"
-hash = "7ecaf6d878bd373676c84c5727ee515a3953b2e9972c64e61a1ed9c5efd672f3"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-dailies.pw.toml"
 hash = "81541aff7352036645bc18fbe63e6f6b967f4813f73b2dcc9571b7453b5d8552"
 metafile = true
@@ -138,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-minigames.pw.toml"
 hash = "519aef987d454544c8bf75a878a08de483d4bfda02124fa34fdef5657f8a2118"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "60c53690ccf6b6f99a89bb6194138b29ff4453c6d1a428972b8d382697217289"
 metafile = true
 
 [[files]]
