@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubermoncraft-core-1.0.0.jar"
-hash = "165e466e6c8d5d85d6ab91d1f10277e2c8b1642353aa5659b6e6ef345db8b96e"
+hash = "32893ab1034aa5ec9eae8eab60902b665fa11ee8a9b72a0e3f1f6fd54cb21777"
 
 [[files]]
 file = "mods/waystones.pw.toml"
