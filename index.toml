@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "0e95cd9f8ea016457e74d9c4240248c60218218f3d97236bc5fe5dbfbb63eb71"
+hash = "2e406998f51f1ed97d37046ca4d232cbf12d6016f2c66da230936d7a7c5796c3"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -12,6 +12,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
+metafile = true
+
+[[files]]
+file = "mods/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "e076bf51bc6dc4ddc81efcaae6562146e24d2f9a5e11c3d097bbc210a6db40c9"
 metafile = true
 
 [[files]]
@@ -485,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubermoncraft-core-1.0.0.jar"
-hash = "32893ab1034aa5ec9eae8eab60902b665fa11ee8a9b72a0e3f1f6fd54cb21777"
+hash = "ac68133da2a911054a5ebb88c398e34e392197d2d60bf54f6dacc75c287cc75f"
 
 [[files]]
 file = "mods/waystones.pw.toml"

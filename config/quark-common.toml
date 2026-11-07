@@ -1351,7 +1351,7 @@
 	Crabs = true
 	Forgotten = true
 	Foxhound = true
-	Shiba = true
+	Shiba = false
 	Stonelings = true
 	Toretoise = true
 	Wraith = true
